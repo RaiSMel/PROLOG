@@ -15,7 +15,7 @@ Before start, verify if you attend to the following requirements:
 - Download the .exe and execute the code.
 
 
-## ☕ Using Dragon Ball
+## ☕ Using Conta Corrente
 
 1. There is 5 options in the main menu
 2. The number one you can see your balance, write down the following code to see your balance
